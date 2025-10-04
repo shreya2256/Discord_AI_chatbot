@@ -1,4 +1,3 @@
-# Discord_AI_chatbot
 # 🤖 ChatGPT Discord Bot (Latest GPT)
 
 A friendly Discord bot powered by **OpenAI’s latest GPT model** that can chat intelligently with users in real-time. Built using **Node.js**, **discord.js**, and **OpenAI API**.  
@@ -39,9 +38,8 @@ git clone <your-repo-url>
 cd <repo-folder>
 
 
-
-Install dependencies
-
+1. **Clone the repository**
+```bash
 npm install
 
 
