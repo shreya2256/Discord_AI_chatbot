@@ -15,11 +15,6 @@ A friendly Discord bot powered by **OpenAI’s latest GPT model** that can chat 
 
 ---
 
-## Demo
-
-![demo-gif](link-to-your-demo-gif-or-screenshot) *(optional)*
-
----
 
 ## Prerequisites
 
@@ -30,32 +25,35 @@ A friendly Discord bot powered by **OpenAI’s latest GPT model** that can chat 
 
 ---
 
+## Project Confuguration Links
+
+- npm init -y
+- npm install discord.js openai dotenv
+- node --version
+- npm --version
+
+---
 ## Installation
 
-1. **Clone the repository**
-```bash
+1. Clone the repository
 git clone <your-repo-url>
 cd <repo-folder>
 
 
-1. **Clone the repository**
-```bash
+2. Install dependencies
 npm install
 
 
-Create .env file
-
+3.Create .env file
 touch .env
 
 
-Add your API keys:
-
+4.Add your API keys:
 DISCORD_TOKEN=your_discord_bot_token
 OPENAI_KEY=your_openai_api_key
 
 
-Run the bot
-
+5.Run the bot
 node index.js
 
 
