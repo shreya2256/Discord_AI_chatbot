@@ -48,7 +48,4 @@ ChatGPT Bot is Online on Discord
 ├─ .env              # API keys (ignored by git)
 └─ .gitignore        # Ignores node_modules and .env
 ---
-🛡️ Notes
-•	- Keep your .env file private (never push it to GitHub)
-•	- Use .gitignore to hide sensitive files like .env and node_modules
 
