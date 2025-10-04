@@ -39,23 +39,18 @@ A friendly Discord bot powered by **OpenAI’s latest GPT model** that can chat 
 git clone <your-repo-url>
 cd <repo-folder>
 
-
 2. Install dependencies
 npm install
 
-
 3.Create .env file
 touch .env
-
 
 4.Add your API keys:
 DISCORD_TOKEN=your_discord_bot_token
 OPENAI_KEY=your_openai_api_key
 
-
 5.Run the bot
 node index.js
-
 
 ✅ Bot should log: Logged in as <your-bot-name>
 
