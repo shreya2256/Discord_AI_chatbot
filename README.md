@@ -51,10 +51,6 @@ OPENAI_KEY=your_openai_api_key
 5.Run the bot
 node index.js
 
-✅ If successful, you should see:
-ChatGPT Bot is Online on Discord
-
-
 ## 💬 Usage
 
 Send a message in your Discord server where the bot is added
